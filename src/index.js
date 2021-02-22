@@ -5,7 +5,10 @@ import './style.css';
 const element = (
     <>
         <section>
-            <img src="" alt="" />
+            <img src="images/ironhack-logo.svg" alt="logo" />
+            <h1>Say hello to ReactJS</h1>
+            <p>You will learn how to use the most popular frontend</p>
+            <button>Awesome!</button>
         </section>
         <section>
             <article>
